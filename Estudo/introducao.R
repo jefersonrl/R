@@ -1,11 +1,11 @@
-#comentário inicia com cerquilha
+#coment?rio inicia com cerquilha
 
-#Declaração de variaveis
+#Declara??o de variaveis
 x <- 15
 y <- 2
 char <- "texto"
 
-#operadores aritiméticos
+#operadores aritimeticos
 
 soma <- x + y 
 sub <- x - y
@@ -14,7 +14,7 @@ div <- x / y
 exp <- x ^ y
 
 
-#Para exibir no console basta colocar o nome da váriavel
+#Para exibir no console basta colocar o nome da v?riavel
 
 char
 soma
@@ -23,7 +23,7 @@ multi
 div
 exp
 
-#Usando operadores de comparação para verificação booleana
+#Usando operadores de compara??o para verifica??o booleana
 x > y
 x < y
 x == y
